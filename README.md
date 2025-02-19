@@ -8,6 +8,9 @@
 **SQL Database (SSMS):**  The data is sourced directly from the SQL database of the hotel's billing software.
 Key Insights & Analysis
 
+## Data Model - 
+   ![Data Model](https://github.com/user-attachments/assets/592a59c9-b3ec-431e-8497-5217fde6c5d2)
+
 
 The Power BI dashboard is designed to cover various business aspects, including:
 ## 1. Revenue Analysis
